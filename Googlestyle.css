@@ -1,0 +1,36 @@
+.section
+{
+	background-color: #FFF;
+  border: 1px solid #DDD;
+  border-radius: 3px;
+  color: #AAA;
+  padding: 15px;
+  margin: 40px auto 0px auto;
+  width: 42%;
+
+
+
+}
+
+.search
+{
+	border: 1px solid #DDD;
+  border-radius: 3px;
+  color: #AAA;
+  padding: 15px;
+  margin: 40pxautoauto 0px auto;
+  width: 42%;
+
+
+
+
+}
+
+.submit
+{
+	margin: 38px auto;
+	padding: 14px;
+
+
+
+}
